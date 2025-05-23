@@ -1,3 +1,6 @@
+for API KEY and API BASE URL
+get it from picwish by creating an account
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
